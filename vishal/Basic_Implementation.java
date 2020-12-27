@@ -1,4 +1,4 @@
-package basic;
+package vishal;
 import java.util.*;
 public class Basic_Implementation {
 	
